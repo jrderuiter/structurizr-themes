@@ -3,7 +3,7 @@
     "description": "This theme includes element styles with icons for GitHub.",
     "elements": [
         {
-            "tag": "GitHub",
+            "tag": "GitHub - repository",
             "icon": "github.png"
         }
     ]
