@@ -1,0 +1,10 @@
+{
+    "name": "GitHub",
+    "description": "This theme includes element styles with icons for GitHub.",
+    "elements": [
+        {
+            "tag": "GitHub",
+            "icon": "github.png"
+        }
+    ]
+}
